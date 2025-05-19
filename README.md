@@ -5,5 +5,3 @@ Repository for the companion [Colab](https://colab.research.google.com) notebook
 * All the notebooks in this repo have been meant for execution in the Colab free tier (with and without hardware acceleration, depending on the specific case). While the code can run on different platforms too (such as a local Jupyter/Jupyter Lab server, DeepNote, AWS SageMaker, etc.), no info is provided about setting the Python virtual environment, the required packages, specific OS configurations and GPU drivers installation and configuration other than a Colab VM. Contributions are welcome if you are running them in a different environment :wink:
 * For a deeper understanding of any specific task covered here, it is recommended exploring and running the code in these notebooks while reading the corresponding book's chapters.
 
-👉👉👉📣 Deal of the Day April 29: NEW MEAP! Save 45% on my book **Domain-Specific Small Language Models** and other selected titles @ManningBooks: [http://mng.bz/WrEx](http://mng.bz/WrEx) 📣  
-The Deal of the Day offer also applies to **The Art of AI Product Development** and **LLM Reliability** books.
