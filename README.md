@@ -1,5 +1,11 @@
 # Domain-Specific-Small-Language-Models
 Repository for the companion [Colab](https://colab.research.google.com) notebooks of the [Domain-Specific Small Language Models book](https://shortener.manning.com/OwMa), Manning Publications.  
+** ***Important*** **  
+The book is currently 25% 𝐨𝐟𝐟, with the promotional price expected to be $44.99, 𝐟𝐫𝐨𝐦 𝐀𝐮𝐠𝐮𝐬𝐭 10–25.  
+If this is an area you’re working in or curious about, take a look  
+👇  
+📚 𝐃𝐨𝐦𝐚𝐢𝐧-𝐒𝐩𝐞𝐜𝐢𝐟𝐢𝐜 𝐒𝐦𝐚𝐥𝐥 𝐋𝐚𝐧𝐠𝐮𝐚𝐠𝐞 𝐌𝐨𝐝𝐞𝐥𝐬 - https://hubs.la/Q04sn4z70  
+**************** 
 ![MEAP Cover](images/iozzia-domain_specific_small_language_models.png)  
   
 ** ***Important Info*** **  
